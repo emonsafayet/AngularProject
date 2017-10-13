@@ -95,6 +95,7 @@
     <TypeScriptCompile Include="app\app.config.ts" />
     <TypeScriptCompile Include="app\home\HomeControllers.ts" />
     <TypeScriptCompile Include="app\student\StudentControllers.ts" />
+    <TypeScriptCompile Include="app\student\StudentService.ts" />
     <TypeScriptCompile Include="Scripts\typings\angular-ui-router\index.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-animate.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\angularjs\angular-component-router.d.ts" />
