@@ -4,7 +4,7 @@
         name: string;
         phone: string;
         getinfo(): string {
-            return this.name + "-" + this.phone;
+            return this.name + " " + this.phone;
         }
     }
 

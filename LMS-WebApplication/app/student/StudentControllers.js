@@ -4,7 +4,7 @@ var App;
         function Student() {
         }
         Student.prototype.getinfo = function () {
-            return this.name + "-" + this.phone;
+            return this.name + " " + this.phone;
         };
         return Student;
     }());
