@@ -9,6 +9,7 @@
         now: string;
     }
 
+    //register
     angular.module('app').controller('HomeController', HomeController);
 
 }

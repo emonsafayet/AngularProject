@@ -27,6 +27,7 @@ var App;
         };
         return StudentController;
     }());
+    StudentController.$inject = ["StudentService"];
     angular.module('app').controller('StudentController', StudentController);
     var StudentsController = (function () {
         function StudentsController(studentService) {

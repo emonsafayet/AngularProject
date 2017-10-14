@@ -2,6 +2,7 @@
     export class StudentService {
         students: Student[];
 
+        static $inject = [];
         constructor() {
             this.students = [];
             console.info("inititing student service", this.students);

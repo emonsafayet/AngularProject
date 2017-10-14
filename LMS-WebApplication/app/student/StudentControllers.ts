@@ -12,6 +12,7 @@
         student: Student;
         information: string;
         studentService: StudentService;
+        static $inject = ["StudentService"];
 
         constructor(studentService: StudentService) {
             this.student = new Student;

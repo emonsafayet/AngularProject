@@ -7,6 +7,7 @@ var App;
         }
         return HomeController;
     }());
+    //register
     angular.module('app').controller('HomeController', HomeController);
 })(App || (App = {}));
 //# sourceMappingURL=HomeControllers.js.map
