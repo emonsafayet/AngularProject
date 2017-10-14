@@ -1,1 +1,8 @@
 C:\Users\safayet\documents\visual studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\obj\Debug\LMS-WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\bin\LMS-WebApplication.dll.config
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\bin\LMS-WebApplication.dll
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\bin\LMS-WebApplication.pdb
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\obj\Debug\LMS-WebApplication.dll
+C:\Users\safayet\Documents\Visual Studio 2017\Projects\LMS-WebApplication\LMS-WebApplication\obj\Debug\LMS-WebApplication.pdb

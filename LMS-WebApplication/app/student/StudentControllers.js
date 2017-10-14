@@ -37,6 +37,7 @@ var App;
         }
         return StudentsController;
     }());
+    StudentsController.$inject = ["StudentService"];
     angular.module('app').controller('StudentsController', StudentsController);
 })(App || (App = {}));
 //# sourceMappingURL=StudentControllers.js.map

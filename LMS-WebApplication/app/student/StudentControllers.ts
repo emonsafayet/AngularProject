@@ -35,7 +35,7 @@
     class StudentsController {
         students: Student[];
         studentService: StudentService;
-
+        static $inject = ["StudentService"];
         constructor(studentService: StudentService) {
             this.studentService = studentService;
             this.students = this.studentService.students;
